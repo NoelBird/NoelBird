@@ -27,6 +27,10 @@ communications are always welcome.
 
 (badge site: https://github.com/Ileriayo/markdown-badges)
 
+<details>
+  <summary>more</summary>
+  TODO: add here
+</details>
 <!--
 **NoelBird/NoelBird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
