@@ -11,18 +11,22 @@ communications are always welcome.
 
 <h3 align="left">🌱 Open Source Contributions 🌱</h3>
 
-- python(PYPI)
+- as maintainer
   - mytreepy: windows tree command. it can specify level. and more comportable than original windows tree.exe (usage: pip install mytreepy => treepy -L 1)
-  - tensorflow: translation some parts of tensorflow documentation
-- etc
-  - awesome cheat sheet: it can provide an overview of IT knowledges.
+- as contributor
+  - tensorflow(translation some parts of tensorflow documentation)
+  - awesome cheat sheet
 
 
 
 <h3 align="left">🛠 Side Projects In Progress 🛠</h3>
 
-- yolo C => C++: 
 - OS making: from bootloader to GUI application program.
+  - step 1: 32 bit single core OS(no VGA)  <=== currently here
+  - step 2: 64 bit multi core OS(with VGA)
+
+- yolo C => C++
+  - pending
 
 
 (badge site: https://github.com/Ileriayo/markdown-badges)
